@@ -1594,6 +1594,10 @@ table {
   height: 100%;
   border-radius: 20px;
 }
+::selection{
+  color: rgb(3, 66, 34);
+  background: green;
+}
 
 /*===============TOPBUTTON==================*/
 .go-top-btn {
